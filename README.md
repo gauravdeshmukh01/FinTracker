@@ -2,6 +2,7 @@ FinTracker
 
 
 About
+
 FinTracker is a personal finance tracker website designed to help users effectively manage their finances. With a simple and user-friendly interface, users can track their income, expenses, and budgets across various categories, and view detailed reports for better financial insights. The web application allows you to enter your monthly financial data and provides a summary for the current year.
 
 
