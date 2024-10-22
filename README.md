@@ -1,43 +1,29 @@
-FINTRACKER
+# FinTracker
 
+## About
 
+**FinTracker** is a personal finance tracker website designed to help users effectively manage their finances. With a simple and user-friendly interface, users can track their income, expenses, and budgets across various categories, and view detailed reports for better financial insights. The web application allows you to enter your monthly financial data and provides a summary for the current year.
 
-ABOUT
+## Features
 
-FINTRACKER is a personal finance tracker website designed to help users effectively manage their finances. With a simple and user-friendly interface, users can track their income, expenses, and budgets across various categories, and view detailed reports for better financial insights. The web application allows you to enter your monthly financial data and provides a summary for the current year.
+- **Add Expenses**: Input your monthly expenses across various categories including Travel, Education, Residential, Food, Other, and Entertainment.
+- **View Reports**: View a detailed report of your expenses categorized by month and year, helping you stay on top of your financial health.
 
+## Categories of Expenses
 
-FEATURES
+- **Email**: Enter your email to personalize your finance tracking.
+- **Travel**: Track travel-related expenses.
+- **Education**: Record any education-related spending.
+- **Residential**: Log your residential and housing expenses.
+- **Food**: Keep track of your food expenditures.
+- **Other**: Miscellaneous expenses that don’t fit in other categories.
+- **Entertainment**: Monitor your spending on entertainment and leisure.
 
-ADD EXPENSES: Input your monthly expenses across various categories including Travel, Education, Residential, Food, Other, and Entertainment.
+## Filters
 
-VIEW REPORTS: View a detailed report of your expenses categorized by month and year, helping you stay on top of your financial health.
+- **Year**: Choose the year to analyze your expenses (currently set to 2024).
+- **Month**: Filter reports based on the selected month.
 
+## Live Demo
 
-CATEGORIES OF EXPENSES
-
-EMAIL: Enter your email to personalize your finance tracking.
-
-TRAVEL: Track travel-related expenses.
-
-EDUCATION: Record any education-related spending.
-
-RESIDENTIAL: Log your residential and housing expenses.
-
-FOOD: Keep track of your food expenditures.
-
-OTHER: Miscellaneous expenses that don’t fit in other categories.
-
-ENTERTAINMENT: Monitor your spending on entertainment and leisure.
-
-
-FILTERS
-
-YEAR: Choose the year to analyze your expenses (currently set to 2024).
-
-MONTH: Filter reports based on the selected month.
-
-
-LIVE DEMO
-
-Check out the live version of FinTracker here: https://fin-trackr-pi.vercel.app/
+Check out the live version of FinTracker here: [FinTracker Live Demo](https://fin-trackr-pi.vercel.app/)
